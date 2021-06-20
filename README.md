@@ -44,3 +44,7 @@ npx hardhat run scripts/deploy.js --network localhost
 ```sh
 npm start
 ```
+
+## Preview
+
+![preview](assets/img/preview.png)
